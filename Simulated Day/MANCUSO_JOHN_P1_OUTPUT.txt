@@ -1,0 +1,279 @@
+[0]Teacher: Is waking up
+[15]Student-1: Is waking up
+[19]Student-2: Is waking up
+[20]Student-1: Arriving to school
+[21]Student-3: Is waking up
+[21]Student-2: Arriving to school
+[22]Student-3: Arriving to school
+[22]Student-4: Is waking up
+[22]Student-5: Is waking up
+[22]Student-4: Arriving to school
+[23]Student-6: Is waking up
+[23]Student-5: Arriving to school
+[23]Student-7: Is waking up
+[23]Student-6: Arriving to school
+[23]Student-7: Arriving to school
+[23]Student-8: Is waking up
+[24]Student-9: Is waking up
+[24]Student-8: Arriving to school
+[24]Student-10: Is waking up
+[24]Student-9: Arriving to school
+[24]Student-10: Arriving to school
+[24]Student-11: Is waking up
+[25]Student-12: Is waking up
+[25]Student-11: Arriving to school
+[25]Student-13: Is waking up
+[25]Student-12: Arriving to school
+[25]Student-13: Arriving to school
+[1526]Student-2: Student is filling out Heath Questionaire.
+[1526]Student-7: Student is filling out Heath Questionaire.
+[1527]Student-11: Student is filling out Heath Questionaire.
+[1527]Student-12: Student is filling out Heath Questionaire.
+[1527]Student-13: Student is filling out Heath Questionaire.
+[1526]Student-1: Student is filling out Heath Questionaire.
+[1526]Student-6: Student is filling out Heath Questionaire.
+[1526]Student-5: Student is filling out Heath Questionaire.
+[1526]Student-4: Student is filling out Heath Questionaire.
+[1526]Student-3: Student is filling out Heath Questionaire.
+[1526]Student-10: Student is filling out Heath Questionaire.
+[1526]Student-8: Student is filling out Heath Questionaire.
+[1526]Student-9: Student is filling out Heath Questionaire.
+[3031]Student-7: Waiting for teacher
+[3031]Student-13: Waiting for teacher
+[3032]Student-1: Waiting for teacher
+[3031]Student-12: Waiting for teacher
+[3031]Student-11: Waiting for teacher
+[3031]Student-2: Waiting for teacher
+[3033]Student-6: Waiting for teacher
+[3033]Student-4: Waiting for teacher
+[3034]Student-3: Waiting for teacher
+[3033]Student-5: Waiting for teacher
+[3034]Student-10: Waiting for teacher
+[3036]Student-8: Waiting for teacher
+[3042]Student-9: Waiting for teacher
+[5532]Student-7: Waiting for teacher
+[5532]Student-2: Waiting for teacher
+[5532]Student-11: Waiting for teacher
+[5532]Student-12: Waiting for teacher
+[5532]Student-13: Waiting for teacher
+[5532]Student-1: Waiting for teacher
+[5534]Student-6: Waiting for teacher
+[5534]Student-3: Waiting for teacher
+[5534]Student-4: Waiting for teacher
+[5536]Student-5: Waiting for teacher
+[5536]Student-10: Waiting for teacher
+[5537]Student-8: Waiting for teacher
+[5542]Student-9: Waiting for teacher
+[7082]Teacher:        *** Teacher has arrived ***
+[7083]Teacher:        *** Waiting for students to finish using the bathroom. ***
+[8033]Student-2: Allowed into the school now.
+[8033]Student-12: Allowed into the school now.
+[8033]Student-13: Allowed into the school now.
+[8033]Student-7: Allowed into the school now.
+[8033]Student-2: Using boys bathroom
+[8033]Student-11: Allowed into the school now.
+[8034]Student-7: Using girls bathroom
+[8035]Student-13: Using girls bathroom
+[8034]Student-12: Using boys bathroom
+[8033]Student-1: Allowed into the school now.
+[8035]Student-11: Waiting to use the girls bathroom.
+[8035]Student-1: Waiting to use the girls bathroom.
+[8036]Student-6: Allowed into the school now.
+[8036]Student-4: Allowed into the school now.
+[8036]Student-3: Allowed into the school now.
+[8036]Student-6: Waiting to use the boys bathroom.
+[8036]Student-4: Waiting to use the boys bathroom.
+[8036]Student-3: Waiting to use the girls bathroom.
+[8041]Student-10: Allowed into the school now.
+[8041]Student-8: Allowed into the school now.
+[8041]Student-5: Allowed into the school now.
+[8041]Student-10: Waiting to use the boys bathroom.
+[8041]Student-8: Waiting to use the boys bathroom.
+[8041]Student-5: Waiting to use the girls bathroom.
+[8048]Student-9: Allowed into the school now.
+[8048]Student-9: Waiting to use the girls bathroom.
+[9034]Student-2: Finished using boys bathroom
+[9039]Student-7: Finished using girls bathroom
+[9039]Student-12: Finished using boys bathroom
+[9039]Student-13: Finished using girls bathroom
+[9039]Student-11: Waiting to use the girls bathroom.
+[9039]Student-1: Waiting to use the girls bathroom.
+[9039]Student-6: Using boys bathroom
+[9039]Student-4: Using boys bathroom
+[9039]Student-3: Waiting to use the girls bathroom.
+[9044]Student-10: Using boys bathroom
+[9044]Student-8: Using boys bathroom
+[9044]Student-5: Waiting to use the girls bathroom.
+[9052]Student-9: Waiting to use the girls bathroom.
+[10040]Student-6: Finished using boys bathroom
+[10045]Student-11: Using girls bathroom
+[10045]Student-1: Using girls bathroom
+[10045]Student-5: Using girls bathroom
+[10045]Student-3: Using girls bathroom
+[10045]Student-4: Finished using boys bathroom
+[10045]Student-8: Finished using boys bathroom
+[10045]Student-10: Finished using boys bathroom
+[10056]Student-9: Using girls bathroom
+[11047]Student-11: Finished using girls bathroom
+[11047]Student-5: Finished using girls bathroom
+[11047]Student-3: Finished using girls bathroom
+[11047]Student-1: Finished using girls bathroom
+[11057]Student-9: Finished using girls bathroom
+[13587]Teacher:        *** All students are done in the bathroom, the classroom is open. ***
+[16597]Teacher:        *** First period will begin ***
+[16598]Teacher:        *** Teaching his first class ***
+[17042]Student-6: Joining class
+[17051]Student-10: Joining class
+[17054]Student-11: Joining class
+[17055]Student-3: Joining class
+[17060]Student-9: Joining class
+[18041]Student-2: Joining class
+[18053]Student-12: Joining class
+[19043]Student-13: Student is not going to class and is going to walk around campus
+[19043]Student-7: Student is not going to class and is going to walk around campus
+[19056]Student-4: Student is not going to class and is going to walk around campus
+[19056]Student-8: Student is not going to class and is going to walk around campus
+[19063]Student-5: Student is not going to class and is going to walk around campus
+[19063]Student-1: Student is not going to class and is going to walk around campus
+[20048]Student-6: Is sleeping in class
+[20055]Student-10: Is sleeping in class
+[20059]Student-3: Is sleeping in class
+[20059]Student-11: Is sleeping in class
+[20064]Student-9: Is sleeping in class
+[21047]Student-2: Is sleeping in class
+[21056]Student-12: Is sleeping in class
+[25600]Teacher:        *** Has finished teaching the class ***
+[25600]Teacher:        *** Break in between class 1 and 2 ***
+[26060]Student-2: Is leaving class
+[26060]Student-12: Is leaving class
+[26060]Student-6: Is leaving class
+[26060]Student-10: Is leaving class
+[26074]Student-11: Is leaving class
+[26074]Student-3: Is leaving class
+[26083]Student-9: Is leaving class
+[35605]Teacher:        *** Teaching his second class ***
+[36079]Student-10: Joining class
+[36079]Student-6: Joining class
+[36079]Student-12: Joining class
+[36089]Student-3: Joining class
+[36100]Student-9: Joining class
+[37082]Student-13: Joining class
+[37085]Student-4: Joining class
+[37085]Student-8: Joining class
+[37088]Student-5: Joining class
+[37099]Student-1: Joining class
+[38082]Student-2: Student is not going to class and is going to walk around campus
+[38089]Student-11: Student is not going to class and is going to walk around campus
+[39082]Student-10: Is sleeping in class
+[39083]Student-12: Is sleeping in class
+[39082]Student-6: Is sleeping in class
+[39087]Student-7: Student is not going to class and is going to walk around campus
+[39090]Student-3: Is sleeping in class
+[39104]Student-9: Is sleeping in class
+[40082]Student-13: Is sleeping in class
+[40091]Student-4: Is sleeping in class
+[40091]Student-5: Is sleeping in class
+[40091]Student-8: Is sleeping in class
+[40100]Student-1: Is sleeping in class
+[45610]Teacher:        *** Has finished teaching the class and now has Office Hours ***
+[46094]Student-6: Is leaving class
+[46095]Student-13: Is leaving class
+[46095]Student-10: Is leaving class
+[46095]Student-12: Is leaving class
+[46113]Student-4: Is leaving class
+[46113]Student-8: Is leaving class
+[46113]Student-3: Is leaving class
+[46113]Student-5: Is leaving class
+[46125]Student-1: Is leaving class
+[46136]Student-9: Is leaving class
+[55615]Teacher:        *** Teacher has finished Office Hours ***
+[55616]Teacher:        *** Teaching his third class ***
+[56118]Student-10: Joining class
+[56119]Student-12: Joining class
+[56118]Student-6: Joining class
+[56122]Student-11: Joining class
+[56139]Student-3: Joining class
+[56139]Student-1: Joining class
+[56153]Student-9: Joining class
+[57121]Student-7: Joining class
+[58113]Student-2: Student is not going to class and is going to walk around campus
+[58122]Student-13: Student is not going to class and is going to walk around campus
+[58123]Student-4: Student is not going to class and is going to walk around campus
+[58123]Student-8: Student is not going to class and is going to walk around campus
+[58143]Student-5: Student is not going to class and is going to walk around campus
+[59121]Student-10: Is sleeping in class
+[59121]Student-6: Is sleeping in class
+[59121]Student-12: Is sleeping in class
+[59127]Student-11: Is sleeping in class
+[59144]Student-3: Is sleeping in class
+[59144]Student-1: Is sleeping in class
+[59156]Student-9: Is sleeping in class
+[60123]Student-7: Is sleeping in class
+[65620]Teacher:        *** Has finished teaching the class ***
+[66139]Student-12: Is leaving class
+[66139]Student-7: Is leaving class
+[66139]Student-6: Is leaving class
+[66139]Student-10: Is leaving class
+[66142]Student-11: Is leaving class
+[66161]Student-1: Is leaving class
+[66161]Student-3: Is leaving class
+[66177]Student-9: Is leaving class
+[70621]Teacher:        *** Teaching his fourth class ***
+[72133]Student-2: Joining class
+[72148]Student-13: Joining class
+[72154]Student-12: Joining class
+[72154]Student-10: Joining class
+[72154]Student-6: Joining class
+[72154]Student-7: Joining class
+[74151]Student-8: Student is not going to class and is going to walk around campus
+[74151]Student-4: Student is not going to class and is going to walk around campus
+[74159]Student-11: Student is not going to class and is going to walk around campus
+[74168]Student-5: Student is not going to class and is going to walk around campus
+[74176]Student-3: Student is not going to class and is going to walk around campus
+[74176]Student-1: Student is not going to class and is going to walk around campus
+[74185]Student-9: Student is not going to class and is going to walk around campus
+[75137]Student-2: Is sleeping in class
+[75152]Student-13: Is sleeping in class
+[75157]Student-12: Is sleeping in class
+[75157]Student-6: Is sleeping in class
+[75157]Student-10: Is sleeping in class
+[75157]Student-7: Is sleeping in class
+[80627]Teacher:        *** Has finished teaching the class ***
+[81157]Student-2: Is leaving class
+[81168]Student-13: Is leaving class
+[81185]Student-12: Is leaving class
+[81185]Student-10: Is leaving class
+[81186]Student-7: Is leaving class
+[81185]Student-6: Is leaving class
+[85632]Teacher:        *** Has finished teaching for the day ***
+
+Attendance
+                Class 1:        Class 2:         Class 3:       Class 4:
+
+Student [1]                     Y               Y                
+Student [2]     Y                                               Y
+Student [3]     Y               Y               Y                
+Student [4]                     Y                                
+Student [5]                     Y                                
+Student [6]     Y               Y               Y               Y
+Student [7]                                     Y               Y
+Student [8]                     Y                                
+Student [9]     Y               Y               Y                
+Student [10]      Y            Y               Y               Y
+Student [11]     Y                              Y                
+Student [12]     Y              Y               Y               Y
+Student [13]                    Y                               Y
+[87685]Student-11: Is going home now.
+[87686]Student-4: Is going home now.
+[87685]Student-8: Is going home now.
+[87691]Student-5: Is going home now.
+[87705]Student-3: Is going home now.
+[87705]Student-1: Is going home now.
+[87710]Student-9: Is going home now.
+[88672]Student-2: Is going home now.
+[88688]Student-13: Is going home now.
+[88697]Student-7: Is going home now.
+[88697]Student-12: Is going home now.
+[88698]Student-6: Is going home now.
+[88698]Student-10: Is going home now.
+[89380]Teacher:        *** Is going home now. ***
